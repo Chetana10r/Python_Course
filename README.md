@@ -1,3 +1,3 @@
 # Python-Basics
 
-Here are some python basic codes.
+It contains all the basic and advanced codes of python.
